@@ -1,0 +1,57 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "variable-version",
+      "platforms": [],
+      "requirement": "= 1.0",
+      "requirements": [
+        "= 1.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "interp-1.0",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "ok",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": []
+}

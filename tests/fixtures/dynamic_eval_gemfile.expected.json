@@ -1,0 +1,4 @@
+{
+  "error": "Bundler::Dsl::DSLError: [!] There was an error parsing `dynamic_eval_gemfile.Gemfile`: | [!] There was an error parsing `Gemfile`: No such file or directory @ rb_sysopen - fixtures/other/Gemfile. Bundler cannot continue. | . Bundler cannot continue.",
+  "ok": false
+}

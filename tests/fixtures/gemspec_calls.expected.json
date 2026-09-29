@@ -1,0 +1,27 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "extra",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": [
+    "https://rubygems.org/"
+  ]
+}

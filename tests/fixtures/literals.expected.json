@@ -1,0 +1,210 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "double",
+      "platforms": [],
+      "requirement": "~> 1.0",
+      "requirements": [
+        "~> 1.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "percent-q",
+      "platforms": [],
+      "requirement": "= 1.0",
+      "requirements": [
+        "= 1.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [],
+      "env": null,
+      "groups": [
+        "a",
+        "b"
+      ],
+      "install_if": true,
+      "name": "multi",
+      "platforms": [],
+      "requirement": ">= 1.0, < 2.0",
+      "requirements": [
+        ">= 1.0",
+        "< 2.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "parens",
+      "platforms": [],
+      "requirement": "= 1.0",
+      "requirements": [
+        "= 1.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "x",
+        "y"
+      ],
+      "install_if": true,
+      "name": "words",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "z"
+      ],
+      "install_if": true,
+      "name": "with-hash-rocket",
+      "platforms": [
+        "ruby"
+      ],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "semi",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "colon",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "adjacent-name",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [
+        "a\tb\\c\u00e9"
+      ],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "escapes",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [],
+      "env": null,
+      "groups": [
+        "dev"
+      ],
+      "install_if": true,
+      "name": "quoted-labels",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [
+        "x"
+      ],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "trailing-comma",
+      "platforms": [],
+      "requirement": "= 1.0",
+      "requirements": [
+        "= 1.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": []
+}

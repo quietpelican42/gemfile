@@ -1,0 +1,4 @@
+{
+  "error": "Bundler::Dsl::DSLError: [!] There was an error parsing `invalid_option.Gemfile`: You passed :bogus as an option for gem 'a', but it is invalid. Valid options are: group, groups, git, path, glob, name, branch, ref, tag, require, submodules, platform, platforms, type, source, install_if, gemfile, github, gist, bitbucket. You",
+  "ok": false
+}

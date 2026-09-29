@@ -1,0 +1,73 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "before",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "inside-if",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "after",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "modifier",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": []
+}

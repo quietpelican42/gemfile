@@ -1,0 +1,4 @@
+{
+  "error": "Bundler::Dsl::DSLError: [!] There was an error parsing `invalid_requirement.Gemfile`: Illformed requirement [\">> 1.0\"]. Bundler cannot continue.",
+  "ok": false
+}

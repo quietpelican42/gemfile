@@ -1,0 +1,4 @@
+{
+  "error": "Bundler::Dsl::DSLError: [!] There was an error parsing `invalid_group_block.Gemfile`: no block given (yield). Bundler cannot continue.",
+  "ok": false
+}

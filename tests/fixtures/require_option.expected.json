@@ -1,0 +1,146 @@
+{
+  "dependencies": [
+    {
+      "autorequire": [],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "r1",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [
+        "r2/setup"
+      ],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "r2",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [
+        "a",
+        "b"
+      ],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "r3",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [
+        true
+      ],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "r4",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "r5",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [
+        "sym"
+      ],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "r6",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "r7",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": [],
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "r8",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": []
+}

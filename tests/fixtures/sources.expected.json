@@ -1,0 +1,133 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "from-default",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "from-block",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "remotes": [
+          "https://gems.fury.io/acme/"
+        ],
+        "type": "rubygems"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "test"
+      ],
+      "install_if": true,
+      "name": "block-and-group",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "remotes": [
+          "https://gems.fury.io/acme/"
+        ],
+        "type": "rubygems"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "option-source",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "remotes": [
+          "http://localhost:9292/"
+        ],
+        "type": "rubygems"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "with-credentials",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "remotes": [
+          "https://user:pw@gems.example.com/x/"
+        ],
+        "type": "rubygems"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "own-source",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "remotes": [
+          "https://other.example.com/"
+        ],
+        "type": "rubygems"
+      },
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": [
+    "https://rubygems.org/",
+    "https://gems.example.com/private/"
+  ]
+}

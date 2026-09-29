@@ -1,0 +1,89 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "rails",
+      "platforms": [],
+      "requirement": "~> 7.0",
+      "requirements": [
+        "~> 7.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "tzinfo-data",
+      "platforms": [
+        "mingw",
+        "mswin",
+        "x64_mingw",
+        "jruby"
+      ],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "foo",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": "abc123",
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "git://github.com/a/foo.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "development",
+        "test"
+      ],
+      "install_if": true,
+      "name": "rspec",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": [
+    "https://rubygems.org/"
+  ]
+}

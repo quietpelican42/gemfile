@@ -1,0 +1,369 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g1",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://github.com/acme/g1.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g2",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": "main",
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "git@github.com:acme/g2.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g3",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": "v1.2.3",
+        "type": "git",
+        "uri": "git://github.com/acme/g3.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g4",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "git://github.com/solo/solo.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g5",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://gist.github.com/12345.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g6",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://acme@bitbucket.org/acme/g6.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g7",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://solo@bitbucket.org/solo/solo.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g8",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": "abc123",
+        "submodules": true,
+        "tag": null,
+        "type": "git",
+        "uri": "https://example.com/g8.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g9",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": "develop",
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://example.com/g9.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g10",
+      "platforms": [],
+      "requirement": "= 1.0.0",
+      "requirements": [
+        "= 1.0.0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://example.com/g10.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g11",
+      "platforms": [],
+      "requirement": "~> 1.0",
+      "requirements": [
+        "~> 1.0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": "*.gemspec",
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "git://github.com/acme/g11.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "m1",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": "stable",
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://example.com/multi.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "m2",
+      "platforms": [],
+      "requirement": "= 2.0",
+      "requirements": [
+        "= 2.0"
+      ],
+      "source": {
+        "branch": "stable",
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://example.com/multi.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "n1",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "git://github.com/acme/mono.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "n2",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "git://github.com/acme/mono.git"
+      },
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": []
+}

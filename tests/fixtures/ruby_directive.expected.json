@@ -1,0 +1,36 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "a",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": {
+    "engine": "ruby",
+    "engine_versions": [
+      "2.5.1"
+    ],
+    "patchlevel": null,
+    "versions": [
+      "2.5.1"
+    ]
+  },
+  "sources": [
+    "https://rubygems.org/"
+  ]
+}

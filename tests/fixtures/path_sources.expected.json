@@ -1,0 +1,149 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "p1",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "glob": null,
+        "path": "../p1",
+        "type": "path"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "p2",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "glob": "*.gemspec",
+        "path": "./vendor/p2/",
+        "type": "path"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "p3",
+      "platforms": [],
+      "requirement": "= 1.0",
+      "requirements": [
+        "= 1.0"
+      ],
+      "source": {
+        "glob": null,
+        "path": "vendor/p3",
+        "type": "path"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "e1",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "glob": null,
+        "path": "engines",
+        "type": "path"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "e2",
+      "platforms": [],
+      "requirement": "~> 2.0",
+      "requirements": [
+        "~> 2.0"
+      ],
+      "source": {
+        "glob": null,
+        "path": "engines",
+        "type": "path"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "shared",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "glob": "{,*}.gemspec",
+        "path": "../shared",
+        "type": "path"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "p4",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "glob": null,
+        "path": "a//b",
+        "type": "path"
+      },
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": []
+}

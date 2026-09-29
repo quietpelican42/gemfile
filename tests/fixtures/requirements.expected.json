@@ -1,0 +1,254 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "a",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "b",
+      "platforms": [],
+      "requirement": "= 1.2.3",
+      "requirements": [
+        "= 1.2.3"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "c",
+      "platforms": [],
+      "requirement": "~> 2.0, >= 2.0.3",
+      "requirements": [
+        "~> 2.0",
+        ">= 2.0.3"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "d",
+      "platforms": [],
+      "requirement": ">= 1, < 3",
+      "requirements": [
+        ">= 1",
+        "< 3"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "e",
+      "platforms": [],
+      "requirement": ">= 1.0, < 2.0",
+      "requirements": [
+        ">= 1.0",
+        "< 2.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "f",
+      "platforms": [],
+      "requirement": "= 1.0.pre.beta",
+      "requirements": [
+        "= 1.0.pre.beta"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "g",
+      "platforms": [],
+      "requirement": "!= 1.5",
+      "requirements": [
+        "!= 1.5"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "h",
+      "platforms": [],
+      "requirement": ">= 1",
+      "requirements": [
+        ">= 1"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "i",
+      "platforms": [],
+      "requirement": ">= 0.9",
+      "requirements": [
+        ">= 0.9"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "j",
+      "platforms": [],
+      "requirement": "= 4",
+      "requirements": [
+        "= 4"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "k",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "l",
+      "platforms": [],
+      "requirement": "~> 1.0.pre, < 2",
+      "requirements": [
+        "~> 1.0.pre",
+        "< 2"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "m",
+      "platforms": [],
+      "requirement": ">= 1.a, = 2.0.0.rc1",
+      "requirements": [
+        ">= 1.a",
+        "= 2.0.0.rc1"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "n",
+      "platforms": [],
+      "requirement": "= 1.0",
+      "requirements": [
+        "= 1.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "o",
+      "platforms": [],
+      "requirement": "~> 1.0.0",
+      "requirements": [
+        "~> 1.0.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": []
+}

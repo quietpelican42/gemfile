@@ -1,0 +1,4 @@
+{
+  "error": "Bundler::Dsl::DSLError: [!] There was an error parsing `invalid_duplicate.Gemfile`: You cannot specify the same gem twice with different version requirements. | You specified: dup (= 1.0) and dup (= 2.0). Bundler cannot continue.",
+  "ok": false
+}

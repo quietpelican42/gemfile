@@ -1,0 +1,4 @@
+{
+  "error": "Bundler::Dsl::DSLError: [!] There was an error parsing `invalid_branch.Gemfile`: The `branch` option for `gem 'a'` is not allowed. Only gems with a git source can specify a branch. Bundler cannot continue.",
+  "ok": false
+}

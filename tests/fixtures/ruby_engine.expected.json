@@ -1,0 +1,35 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "a",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": null,
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": {
+    "engine": "jruby",
+    "engine_versions": [
+      "9.2.0.0"
+    ],
+    "patchlevel": "100",
+    "versions": [
+      ">= 2.3",
+      "< 3.0"
+    ]
+  },
+  "sources": []
+}

@@ -1,0 +1,105 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "twice",
+      "platforms": [],
+      "requirement": "~> 1.0",
+      "requirements": [
+        "~> 1.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "test"
+      ],
+      "install_if": true,
+      "name": "twice",
+      "platforms": [],
+      "requirement": "~> 1.0",
+      "requirements": [
+        "~> 1.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "dev-then-run",
+      "platforms": [],
+      "requirement": "~> 2.0",
+      "requirements": [
+        "~> 2.0"
+      ],
+      "source": null,
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "same-git",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://example.com/x.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "same-git",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://example.com/x.git"
+      },
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": []
+}

@@ -1,0 +1,129 @@
+{
+  "dependencies": [
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "a",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://github.com/acme/a.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "b",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://github.com/solo.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "c",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://gitlab.com/acme/c.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "d",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": "dev",
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "https://gitlab.com/solo/solo.git"
+      },
+      "type": "runtime"
+    },
+    {
+      "autorequire": null,
+      "env": null,
+      "groups": [
+        "default"
+      ],
+      "install_if": true,
+      "name": "e",
+      "platforms": [],
+      "requirement": ">= 0",
+      "requirements": [
+        ">= 0"
+      ],
+      "source": {
+        "branch": null,
+        "glob": null,
+        "ref": null,
+        "submodules": null,
+        "tag": null,
+        "type": "git",
+        "uri": "git@example.com:team/e.git"
+      },
+      "type": "runtime"
+    }
+  ],
+  "env_access": [],
+  "ok": true,
+  "optional_groups": [],
+  "ruby": null,
+  "sources": []
+}
